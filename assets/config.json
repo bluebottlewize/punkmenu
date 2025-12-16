@@ -1,0 +1,20 @@
+[
+    {
+        "name": "REBOOT",
+        "cmd": "systemctl reboot",
+        "imgInactive": "qrc:/assets/punkmenu_restart.png",
+        "imgActive": "qrc:/assets/punkmenu_restart_active.png"
+    },
+    {
+        "name": "SHUTDOWN",
+        "cmd": "systemctl poweroff",
+        "imgInactive": "qrc:/assets/punkmenu_poweroff.png",
+        "imgActive": "qrc:/assets/punkmenu_poweroff_active.png"
+    },
+    {
+        "name": "DEAUTHENTICATE",
+        "cmd": "loginctl lock-session",
+        "imgInactive": "qrc:/assets/punkmenu_lock.png",
+        "imgActive": "qrc:/assets/punkmenu_lock_active.png"
+    }
+]

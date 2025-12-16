@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>assets/punkmenu_content.png</file>
+        <file>assets/punkmenu_top.png</file>
+        <file>qml/PowerMenu.qml</file>
+        <file>assets/punkmenu_lock.png</file>
+        <file>assets/punkmenu_poweroff_active.png</file>
+        <file>assets/punkmenu_restart.png</file>
+        <file>assets/punkmenu_lock_active.png</file>
+        <file>assets/punkmenu_restart_active.png</file>
+        <file>assets/punkmenu_poweroff.png</file>
+        <file>assets/punkmenu_bg.png</file>
+        <file>assets/config.json</file>
+    </qresource>
+</RCC>
